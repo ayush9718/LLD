@@ -1,0 +1,3 @@
+C:/Users/ak828/Desktop/System design/LLD/amazon notify using header/build/CMakeFiles/AmazonNotify.dir
+C:/Users/ak828/Desktop/System design/LLD/amazon notify using header/build/CMakeFiles/edit_cache.dir
+C:/Users/ak828/Desktop/System design/LLD/amazon notify using header/build/CMakeFiles/rebuild_cache.dir

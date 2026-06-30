@@ -1,0 +1,8 @@
+# ninja log v7
+7	215	8045581653531171	CMakeFiles/PizzaDecorator.dir/pizza/FarmHouse.cpp.obj	330c3b0fae091423
+12	224	8045581653581202	CMakeFiles/PizzaDecorator.dir/pizza/Margherita.cpp.obj	e8783dd81150b8a0
+18	231	8045581653641167	CMakeFiles/PizzaDecorator.dir/pizza/VegDelight.cpp.obj	23d9a21384411ae8
+30	247	8045581653758299	CMakeFiles/PizzaDecorator.dir/toppings/Mushroom.cpp.obj	a05fbb768bd5974c
+23	249	8045581653698341	CMakeFiles/PizzaDecorator.dir/toppings/ExtraCheese.cpp.obj	f53afe96ba2a629c
+3	457	8045581653490729	CMakeFiles/PizzaDecorator.dir/main.cpp.obj	f1a7d7be0a6dfaa2
+458	652	8045581658040925	PizzaDecorator.exe	cbb3a046b8277daf

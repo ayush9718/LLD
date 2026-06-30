@@ -1,0 +1,37 @@
+Step 1: Create CMakeLists.txt
+
+    cmake_minimum_required(VERSION 3.10)
+
+    project(PizzaDecorator)
+
+    set(CMAKE_CXX_STANDARD 17)
+    set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+    add_executable(PizzaDecorator
+        main.cpp
+        Farmhouse.cpp
+        VegDelight.cpp
+        Margherita.cpp
+        ExtraCheese.cpp
+        Mushroom.cpp
+    )
+
+Step 2: Create a build directory
+    From the project root:
+        mkdir build
+
+
+Step 3: Go inside it
+    cd build
+
+
+Step 4: Generate build files
+    cmake ..
+
+
+Step 5: Compile
+    cmake --build .
+
+
+step 6: run
+    ./PizzaDecorator
