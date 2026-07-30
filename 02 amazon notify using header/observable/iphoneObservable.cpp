@@ -14,11 +14,7 @@ void IphoneObservable::add(NotificationAlertObserver* observer){
 }
 
 void IphoneObservable::remove(NotificationAlertObserver* observer){
-        observerlist.erase(
-    std::remove(observerlist.begin(),
-                observerlist.end(),
-                observer),
-    observerlist.end());
+        observerlist.erase(std::remove(observerlist.begin(),observerlist.end(),observer),observerlist.end());
 }
 
 void IphoneObservable::notify(){
